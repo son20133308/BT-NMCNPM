@@ -12,9 +12,9 @@
 ! Last modified: 20 Jul 2018 13:13 UTC+7
 !
 ! Copyright: ABPVN
-! Nghiêm cấm mọi hình thức sao chép/tái phân phối mà không được phép
+! Nghiêm c?m m?i hình th?c sao chép/tái phân ph?i mà không du?c phép
 ! Please report any unblocked ads or problems by email or in our forums
-! Mọi thắc mắc xin gửi về email, forum hoặc fanpage
+! M?i th?c m?c xin g?i v? email, forum ho?c fanpage
 ! Email: support@abpvn.com
 ! Facebook Fanpage: https://facebook.com/abpvn.org
 ! Forums: http://www.vn-zoom.com/f77/abp-bo-loc-quang-cao-cho-nguoi-viet-2856275.html
@@ -130,7 +130,6 @@ _990x100.
 ||connect.facebook.net/en_US/AudienceNetworkVPAID.js$domain=anime47.com
 ||cungxaynhadep.vn^$popup
 ||data.chiasenhac.com/banner/
-||delivery.vungtv.com^
 ||depmoingay.net.vn/banner
 ||diemthi.24h.com.vn/upload/banner/
 ||diendanlequydon.com/banner/
@@ -48512,7 +48511,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||attitude.co.uk/images/Music_Ticket_Button_
 ||attorrents.com/static/images/download3.png
 ||atwonline.com^*/Airbus120x50_
-||atđhe.net/pu/
+||atdhe.net/pu/
 ||audioz.download^*/partners/
 ||augusta.com/sites/*/yca_plugin/yahoo.js$domain=augusta.com
 ||auto123.com/sasserve.spy
@@ -49521,7 +49520,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fuse.tv/images/sponsor/
 ||futbol24.com/f24/rek/$~xmlhttprequest
 ||fuzface.com/dcrtv/ad$domain=dcrtv.com
-||fırstrowsports.eu/pu/
+||firstrowsports.eu/pu/
 ||g.brothersoft.com^
 ||gabzfm.com/images/banners/
 ||gaccmidwest.org/uploads/tx_bannermanagement/
@@ -52281,7 +52280,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wikinvest.com/wikinvest/ads/
 ||wikinvest.com/wikinvest/images/zap_trade_
 ||wildtangent.com/leaderboard?
-||windows.net/script/p.js$domain=1fichier.com|limetorrents.cc|thepiratebay.みんな
+||windows.net/script/p.js$domain=1fichier.com|limetorrents.cc|thepiratebay.???
 ||windowsitpro.com^*/roadblock.
 ||winnfm.com/grfx/banners/
 ||winpcap.org/assets/image/banner_
@@ -53986,7 +53985,7 @@ bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][t
 ||subs4free.com/_pop_link.php$popup
 ||swfchan.org/*.html$popup,~third-party,domain=swfchan.org
 ||taboola.com^$popup,domain=ndtv.com|scoopwhoop.com
-||thebestbookies.com^$popup,domain=fırstrowsports.eu
+||thebestbookies.com^$popup,domain=firstrowsports.eu
 ||thesource.com/magicshave/$popup
 ||thevideo.me/*.php$popup
 ||thevideo.me/*:$popup
@@ -55977,7 +55976,7 @@ tomsguide.com###below_the_article
 tgdaily.com###bestcovery_container
 dailygalaxy.com###beta-inner
 nigeriafootball.com###bettingCompetition
-atđhe.net###between_links
+atdhe.net###between_links
 searchenginejournal.com###bg-atag
 searchenginejournal.com###bg-takeover-unit
 frostytech.com###bg_googlebanner_160x600LH
@@ -56900,7 +56899,7 @@ lifestyle.yahoo.com###hd-prop-logo-hero
 movpod.in###hd_btn
 castanet.net###hdad
 prevention.com###hdr-top
-flashgot.net###head a[target="_blаnk"]
+flashgot.net###head a[target="_bl?nk"]
 virtualnights.com###head-banner
 androidheadlines.com,molempire.com###head-banner728
 geekologie.com###head-leaderboard
@@ -61312,7 +61311,7 @@ technologyreview.com##.linkexperts-hm
 kyivpost.com##.linklist
 kproxy.com##.linknew4
 babynamegenie.com,forless.com,o2cinemas.com,passageweather.com,worldtimeserver.com##.links
-atđhe.net##.links > thead
+atdhe.net##.links > thead
 answers.com##.links_casale
 answers.com##.links_google
 answers.com##.links_google_csa
@@ -64090,7 +64089,7 @@ softpedia.com##a[target="_blank"][href^="http://www.softpedia.com/xout.php?l="]
 tvmuse.com##a[target="_blank"][onclick]
 horriblesubs.info##a[target="_blank"][rel="nofollow"]
 mmorpg.com##a[target="_blank"][style="cursor: pointer;"]
-noscript.net##a[target="_blаnk"][href$="?MT"]
+noscript.net##a[target="_bl?nk"][href$="?MT"]
 bodymindsoulspirit.com##a[target="_new"] > img
 hookedonads.com##a[target="_top"][href="http://www.demilked.com"] > img
 libertyblitzkrieg.com##a[target="ad"]
