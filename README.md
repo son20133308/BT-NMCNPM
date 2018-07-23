@@ -44,8 +44,8 @@ $webrtc,domain=phim14.net|phimotv.net|appvn.com
 /qcao/*
 /quang%20cao/*
 /quang_cao/*
-/quangcao.
-/quangcao/*
+/quangcao123.
+/quangcao123/*
 /root/ads/*
 /uts.js
 /vast.script,xmlhttprequestdomain=~ynet.co.il
@@ -357,7 +357,7 @@ _990x100.
 ##.leftAdsBanner
 ##.midroll-marker
 ##.qc
-##.quangcao
+##.quangcao123
 ##[id^="balloonads"]
 ##[id^="bn_bottom_fixed_"]
 24h.com.vn###background_bg_link
@@ -524,7 +524,7 @@ kzone.tv##.kzone-sticky-footer-ad
 laptrinhvb.net##div.widget:nth-of-type(1)
 licklink.net##.quizz
 linkneverdie.com###asdf
-linksvip.net##.quangcao-top
+linksvip.net##.quangcao123-top
 live.chonkeo.com##.c-ads
 livetvup.com##.box-fixquangcaos
 livetvup.com##.box-quangcaos
@@ -645,7 +645,7 @@ xemtvhd.com##.quangcaos
 @@||adsplay.net/js/adsplay.js$domain=fptplay.vn
 @@||api.hdonline.vn/iframeplay.php$subdocument
 @@||biphim.net/ad/banner/*$xmlhttprequest,~third-party
-@@||biphim.net/ads.php$xmlhttprequest,~third-party
+@@||biphim.net/ads123.php$xmlhttprequest,~third-party
 @@||blogspot.com^$image,domain=truyentranhtuan.com
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock$script
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/6.3.0/videojs.ads.min.js$domain=phimnhanh.com
@@ -660,7 +660,7 @@ xemtvhd.com##.quangcaos
 @@||lh3.googleusercontent.com$image,domain=kenh4k.com
 @@||licklink.net/js/full-page-script.js$script,domain=fcine.net
 @@||media.m.ambientplatform.vn$script,domain=m.vivo.vn
-@@||muabanraovat.com/images/quangcao/
+@@||muabanraovat.com/images/quangcao123/
 @@||pagead2.googlesyndication.com$script,domain=upfile.vn|startuanit.net|vantuanit.com|thuthuatmeovat.net|vietmod.pro|fullcrackpc.com|win10.vn|loinhacsong.com
 @@||phim14.net/IMG/ads/
 @@||st.bebi.com/bebi_v3.js$domain=ani4u.org
@@ -966,7 +966,7 @@ vlxx.tv##a[rel*="nofollow"]
 -ads.generated.
 -ads.gif
 -ads.js?
--ads.php?
+-ads123.php?
 -ads.swf
 -ads/728x
 -ads/ad-
@@ -2967,7 +2967,7 @@ vlxx.tv##a[rel*="nofollow"]
 /ads.load.
 /ads.min.js
 /ads.pbs
-/ads.php
+/ads123.php
 /ads.pl?
 /ads.png
 /ads.release/*
@@ -30003,7 +30003,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||adtrieval.com^$third-party
 ||adtrix.com^$third-party
 ||adtrovert.com^$third-party
-||adtrue.com^$third-party
+||adtrue123.com^$third-party
 ||adtruism.com^$third-party
 ||adtwbjs.com^$third-party
 ||adtwirl.com^$third-party
@@ -67711,7 +67711,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||eventcinemas.co.nz^*_adhub_server_$script
 @@||eventim.de/obj/basic/ad2_obj/layout/
 @@||ewallpapers.eu/ads/logo.jpg
-@@||exoclick.com/ads.php?*login$script,domain=imgserve.net|imgtiger.com
+@@||exoclick.com/ads123.php?*login$script,domain=imgserve.net|imgtiger.com
 @@||expedia.co.nz/html.cms/tpid=*&adsize=
 @@||expedia.com/daily/common/msi.asp
 @@||expedia.com/html.cms/TPID=*&ADSIZE=$subdocument
@@ -68359,7 +68359,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||pcworld.com/www/js/ads/jquery.lazyload-ad.js
 @@||pennlive.com/static/common/js/ads/ads.js
 @@||pepperjamnetwork.com/banners/$image,domain=extrarebates.com
-@@||perbang.dk/_pub/ads.php?u=$xmlhttprequest
+@@||perbang.dk/_pub/ads123.php?u=$xmlhttprequest
 @@||perbang.dk/_pub/advertisement.js?
 @@||perezhilton.com/included_ads/
 @@||perezhilton.com^*-without-ads-$object,object-subrequest,subdocument
@@ -68417,7 +68417,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||powercolor.com/image/ad/$~third-party
 @@||pressdisplay.com/advertising/showimage.aspx?
 @@||prism.opticsinfobase.org/Scripts/ADS/Details.js
-@@||procato.com/_pub/ads.php?u=$xmlhttprequest
+@@||procato.com/_pub/ads123.php?u=$xmlhttprequest
 @@||procato.com/_pub/advertisement.js
 @@||productioncars.com/pics/menu/ads.gif
 @@||productioncars.com/pics/menu/ads2.gif
@@ -68502,7 +68502,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||rthk.hk/assets/flash/rthk/*/ad_banner$object
 @@||rthk.org.hk/assets/flash/rthk/*/ad_banner$object
 @@||russellrooftiles.co.uk/images/rrt_envirotile_home_advert.png
-@@||ryuutama.com/ads/ads.php?get=$xmlhttprequest
+@@||ryuutama.com/ads/ads123.php?get=$xmlhttprequest
 @@||s.w.org/plugins/ad-inserter/$image,~third-party
 @@||s.ytimg.com/yts/swfbin/player-*/watch_as3.swf$object,domain=youtube.com
 @@||s0.2mdn.net^$domain=britishgas.co.uk|luxurylink.com
@@ -69323,7 +69323,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||arabloads.net^$generichide
 @@||ArenaVision.in^$generichide
 @@||arnnet.com.au^$generichide
-@@||arsopo.com/ads.php
+@@||arsopo.com/ads123.php
 @@||arto.com/includes/js/adtech.de/script.axd/adframe.js?
 @@||atresmedia.com/adsxml/$object-subrequest
 @@||atresplayer.com/adsxml/$object-subrequest
@@ -69822,14 +69822,14 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||kisscartoon.me/Ads/$subdocument
 @@||kitguru.net^$generichide
 @@||komoona.com^$script,third-party,domain=phoronix.com
-@@||koparos.info/ads.php
+@@||koparos.info/ads123.php
 @@||koparos.info^$generichide
 @@||kotaku.com.au^$generichide
 @@||kotaku.com.au^*/ads.js
 @@||kshowes.net^$generichide
 @@||kwikupload.com^$generichide
 @@||lag10.net^$generichide
-@@||lapurno.info/ads.php
+@@||lapurno.info/ads123.php
 @@||lasexta.com/adsxml/$object-subrequest
 @@||last.fm^$generichide
 @@||latinomegahd.net^$generichide
@@ -70021,7 +70021,7 @@ pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width
 @@||olcdn.net/ads1.js$domain=olweb.tv
 @@||olweb.tv^$generichide
 @@||omaredomex.org^$generichide
-@@||omnipola.com/ads.php
+@@||omnipola.com/ads123.php
 @@||omnipola.com^$generichide
 @@||oneplay.tv^$generichide
 @@||onhax.me^$generichide
@@ -70913,8 +70913,8 @@ www.google.com#@##videoads
 @@||api.vigo.ru^*/network_status?$object-subrequest,xmlhttprequest,domain=vk.com
 @@||paymentgate.ru/payment/*_Advert/
 @@||vk.com/ads$generichide
-@@||vk.com/ads.php$~third-party,xmlhttprequest
-@@||vk.com/ads.php?$subdocument,domain=vk.com
+@@||vk.com/ads123.php$~third-party,xmlhttprequest
+@@||vk.com/ads123.php?$subdocument,domain=vk.com
 @@||vk.com/ads?act=$~third-party
 @@||vk.com/ads?act=payments&type$script,stylesheet
 @@||vk.com/ads_*php?$subdocument,~third-party
@@ -71760,7 +71760,7 @@ www.google.com#@##videoads
 @@||sexvidx.tv/js/eroex.js
 @@||sexwebvideo.com/js/ads.js
 @@||submityourflicks.com/player/player-ads.swf$object
-@@||syndication.exoclick.com/ads.php?type=728x90&$script,domain=dirtstyle.tv
+@@||syndication.exoclick.com/ads123.php?type=728x90&$script,domain=dirtstyle.tv
 @@||t8cdn.com/assets/pc/js/$script,domain=tube8.com|tube8.es|tube8.fr
 @@||t8cdn.com/assets_dev/js/algolia/$script,domain=tube8.com|tube8.es|tube8.fr
 @@||tmoncdn.com/scripts/advertisement.js$domain=tubemonsoon.com
